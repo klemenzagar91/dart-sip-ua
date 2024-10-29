@@ -12,7 +12,7 @@ dependencies:
   flutter_webrtc:
     git:
         url: https://github.com/Paddington12345/flutter-webrtc.git
-        ref: 99d8501e20bf2ab8eb3fbe733d5df4967274d00e
+        ref: old-commit-branch
   intl: ^0.19.0
   logger: ^2.0.2+1
   path: ^1.6.4
