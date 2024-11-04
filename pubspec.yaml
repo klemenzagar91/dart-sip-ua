@@ -11,8 +11,8 @@ dependencies:
   crypto: ^3.0.3
   flutter_webrtc:
     git:
-        url: https://github.com/Paddington12345/flutter-webrtc.git
-        ref: old-commit-branch
+        url: https://github.com/klemenzagar91/flutter-webrtc.git
+        ref: main
   intl: ^0.19.0
   logger: ^2.0.2+1
   path: ^1.6.4
